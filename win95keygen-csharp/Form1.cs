@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace win95keygen-csharp
+namespace win95keygen_csharp
 {
     public partial class Form1 : Form
     {
@@ -88,7 +88,7 @@ namespace win95keygen-csharp
                         }
                     }
                     while (temp3.Sum() % 7 != 0 || temp3[6] == 0 || temp3[6] == 8 || temp3[6] == 9);
-                    string third = temp3[0].ToString() + temp3[13. ].ToString() + temp3[2].ToString() + temp3[3].ToString() + temp3[4].ToString() + temp3[5].ToString() + temp3[6].ToString();
+                    string third = temp3[0].ToString() + temp3[1].ToString() + temp3[2].ToString() + temp3[3].ToString() + temp3[4].ToString() + temp3[5].ToString() + temp3[6].ToString();
                     progressBar1.Value += 1;
                     richTextBox1.Text += second + "-" + third + "\r\n";
                 }

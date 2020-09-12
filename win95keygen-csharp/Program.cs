@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace win95keygen-csharp
+namespace win95keygen_csharp
 {
     static class Program
     {

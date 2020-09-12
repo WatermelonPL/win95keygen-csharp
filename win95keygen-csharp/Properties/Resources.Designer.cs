@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace win95keygen-csharp.Properties
+namespace win95keygen_csharp.Properties
 {
 
 
