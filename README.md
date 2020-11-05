@@ -1,4 +1,4 @@
-# win95keygen-csharp [![C](https://img.shields.io/badge/platform-Windows-0078d7.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x86](https://img.shields.io/badge/arch-x86-red.svg)](https://en.wikipedia.org/wiki/X86)
+# win95keygen-csharp [![C](https://img.shields.io/badge/platform-Windows-0078d7.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x86](https://img.shields.io/badge/arch-x86-red.svg)](https://en.wikipedia.org/wiki/X86) ![Lines of code](https://img.shields.io/tokei/lines/github/nolemretaWxd/win95keygen-csharp)
 ![Main window](https://i.imgur.com/Hz70iy8.png)
 
 This program generates CD keys or OEM keys for Windows 95 / Windows NT 4.0 / Office 95.
